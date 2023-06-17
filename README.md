@@ -1,2 +1,2 @@
 # SEBAL_IDL
-Script developed for estimating Evapotranspiration using SEBAL algorithm in IDL programing language
+This code was developed for estimating Evapotranspiration using ***SEBAL algorithm*** in **IDL programing language** by utilizing Landsat-8 satellite imagery.
